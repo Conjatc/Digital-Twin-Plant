@@ -1,0 +1,4420 @@
+[
+  {
+    "timestamp": "07-14 21:45",
+    "temp": 20.94,
+    "moist": 29.0,
+    "brightness": 24.0,
+    "green": 37.27,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 05:45",
+    "temp": 20.25,
+    "moist": 23.0,
+    "brightness": 24.0,
+    "green": 36.46,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 06:15",
+    "temp": 20.12,
+    "moist": 41.0,
+    "brightness": 31.0,
+    "green": 36.26,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 06:45",
+    "temp": 20.12,
+    "moist": 30.0,
+    "brightness": 37.0,
+    "green": 38.05,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 07:15",
+    "temp": 20.06,
+    "moist": 31.0,
+    "brightness": 44.0,
+    "green": 40.3,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 07:45",
+    "temp": 20.06,
+    "moist": 30.0,
+    "brightness": 53.0,
+    "green": 38.67,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 08:15",
+    "temp": 19.94,
+    "moist": 30.0,
+    "brightness": 37.0,
+    "green": 43.2,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 08:45",
+    "temp": 19.81,
+    "moist": 30.0,
+    "brightness": 46.0,
+    "green": 42.45,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 09:15",
+    "temp": 19.88,
+    "moist": 31.0,
+    "brightness": 46.0,
+    "green": 40.27,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 09:45",
+    "temp": 20.0,
+    "moist": 30.0,
+    "brightness": 45.0,
+    "green": 43.2,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 10:15",
+    "temp": 20.19,
+    "moist": 28.0,
+    "brightness": 47.0,
+    "green": 42.45,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 10:45",
+    "temp": 20.44,
+    "moist": 30.0,
+    "brightness": 44.0,
+    "green": 42.38,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 11:15",
+    "temp": 20.56,
+    "moist": 29.0,
+    "brightness": 47.0,
+    "green": 42.64,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 11:45",
+    "temp": 20.62,
+    "moist": 30.0,
+    "brightness": 48.0,
+    "green": 42.71,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 12:15",
+    "temp": 20.5,
+    "moist": 29.0,
+    "brightness": 48.0,
+    "green": 43.82,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 12:45",
+    "temp": 20.56,
+    "moist": 36.0,
+    "brightness": 45.0,
+    "green": 42.84,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 13:15",
+    "temp": 20.94,
+    "moist": 30.0,
+    "brightness": 44.0,
+    "green": 42.71,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 13:45",
+    "temp": 21.19,
+    "moist": 30.0,
+    "brightness": 44.0,
+    "green": 39.94,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 14:15",
+    "temp": 21.25,
+    "moist": 30.0,
+    "brightness": 44.0,
+    "green": 40.82,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 14:45",
+    "temp": 30.19,
+    "moist": 29.0,
+    "brightness": 48.0,
+    "green": 42.84,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 15:15",
+    "temp": 25.88,
+    "moist": 29.0,
+    "brightness": 50.0,
+    "green": 36.62,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 15:46",
+    "temp": 23.31,
+    "moist": 29.0,
+    "brightness": 45.0,
+    "green": 40.85,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 16:16",
+    "temp": 22.69,
+    "moist": 29.0,
+    "brightness": 46.0,
+    "green": 40.76,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 16:46",
+    "temp": 22.0,
+    "moist": 29.0,
+    "brightness": 47.0,
+    "green": 39.94,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 17:16",
+    "temp": 21.56,
+    "moist": 28.0,
+    "brightness": 45.0,
+    "green": 43.16,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 17:46",
+    "temp": 21.56,
+    "moist": 29.0,
+    "brightness": 44.0,
+    "green": 39.52,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 18:16",
+    "temp": 21.44,
+    "moist": 29.0,
+    "brightness": 43.0,
+    "green": 44.66,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 18:46",
+    "temp": 21.25,
+    "moist": 28.0,
+    "brightness": 46.0,
+    "green": 42.35,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 19:16",
+    "temp": 21.19,
+    "moist": 29.0,
+    "brightness": 45.0,
+    "green": 41.96,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 19:46",
+    "temp": 21.06,
+    "moist": 29.0,
+    "brightness": 45.0,
+    "green": 42.51,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 20:16",
+    "temp": 21.0,
+    "moist": 28.0,
+    "brightness": 45.0,
+    "green": 40.43,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 20:46",
+    "temp": 20.94,
+    "moist": 28.0,
+    "brightness": 43.0,
+    "green": 42.25,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 21:16",
+    "temp": 20.69,
+    "moist": 29.0,
+    "brightness": 27.0,
+    "green": 36.04,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-15 21:46",
+    "temp": 20.62,
+    "moist": 29.0,
+    "brightness": 6.0,
+    "green": 8.17,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-16 05:46",
+    "temp": 19.5,
+    "moist": 29.0,
+    "brightness": 22.0,
+    "green": 40.76,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 06:16",
+    "temp": 19.38,
+    "moist": 27.0,
+    "brightness": 55.0,
+    "green": 58.59,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 06:46",
+    "temp": 19.38,
+    "moist": 28.0,
+    "brightness": 58.0,
+    "green": 63.25,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 07:16",
+    "temp": 19.44,
+    "moist": 29.0,
+    "brightness": 56.0,
+    "green": 64.62,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 07:46",
+    "temp": 19.56,
+    "moist": 28.0,
+    "brightness": 57.0,
+    "green": 61.36,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 08:16",
+    "temp": 19.56,
+    "moist": 28.0,
+    "brightness": 54.0,
+    "green": 64.0,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 08:46",
+    "temp": 19.62,
+    "moist": 28.0,
+    "brightness": 53.0,
+    "green": 71.88,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 09:16",
+    "temp": 19.69,
+    "moist": 28.0,
+    "brightness": 57.0,
+    "green": 58.98,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 09:46",
+    "temp": 19.81,
+    "moist": 28.0,
+    "brightness": 52.0,
+    "green": 63.77,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 10:16",
+    "temp": 19.75,
+    "moist": 28.0,
+    "brightness": 60.0,
+    "green": 55.31,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 10:46",
+    "temp": 20.0,
+    "moist": 40.0,
+    "brightness": 56.0,
+    "green": 58.46,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 11:16",
+    "temp": 20.0,
+    "moist": 28.0,
+    "brightness": 55.0,
+    "green": 58.82,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 11:46",
+    "temp": 20.06,
+    "moist": 28.0,
+    "brightness": 52.0,
+    "green": 61.1,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 12:16",
+    "temp": 20.12,
+    "moist": 28.0,
+    "brightness": 57.0,
+    "green": 60.68,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 12:46",
+    "temp": 20.06,
+    "moist": 28.0,
+    "brightness": 51.0,
+    "green": 68.91,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 13:16",
+    "temp": 20.06,
+    "moist": 29.0,
+    "brightness": 57.0,
+    "green": 59.73,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 13:46",
+    "temp": 20.31,
+    "moist": 27.0,
+    "brightness": 58.0,
+    "green": 60.25,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 14:16",
+    "temp": 20.44,
+    "moist": 28.0,
+    "brightness": 56.0,
+    "green": 64.23,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 14:46",
+    "temp": 20.69,
+    "moist": 28.0,
+    "brightness": 55.0,
+    "green": 63.41,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 15:16",
+    "temp": 20.69,
+    "moist": 28.0,
+    "brightness": 57.0,
+    "green": 63.64,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 15:46",
+    "temp": 20.62,
+    "moist": 27.0,
+    "brightness": 54.0,
+    "green": 64.0,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 16:16",
+    "temp": 20.88,
+    "moist": 27.0,
+    "brightness": 53.0,
+    "green": 64.36,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 16:46",
+    "temp": 20.88,
+    "moist": 58.0,
+    "brightness": 43.0,
+    "green": 39.58,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 17:16",
+    "temp": 20.94,
+    "moist": 59.0,
+    "brightness": 45.0,
+    "green": 41.96,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 17:46",
+    "temp": 21.0,
+    "moist": 58.0,
+    "brightness": 48.0,
+    "green": 38.64,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 18:16",
+    "temp": 21.12,
+    "moist": 58.0,
+    "brightness": 46.0,
+    "green": 38.44,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 18:46",
+    "temp": 20.94,
+    "moist": 57.0,
+    "brightness": 46.0,
+    "green": 33.76,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 19:16",
+    "temp": 20.94,
+    "moist": 58.0,
+    "brightness": 45.0,
+    "green": 35.71,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 19:46",
+    "temp": 20.88,
+    "moist": 57.0,
+    "brightness": 44.0,
+    "green": 38.87,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 20:16",
+    "temp": 20.94,
+    "moist": 57.0,
+    "brightness": 46.0,
+    "green": 37.79,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 20:46",
+    "temp": 20.81,
+    "moist": 56.0,
+    "brightness": 20.0,
+    "green": 27.8,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 21:16",
+    "temp": 20.69,
+    "moist": 56.0,
+    "brightness": 24.0,
+    "green": 20.08,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-16 21:46",
+    "temp": 20.75,
+    "moist": 56.0,
+    "brightness": 9.0,
+    "green": 3.61,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 05:41",
+    "temp": 20.19,
+    "moist": 52.0,
+    "brightness": 22.0,
+    "green": 24.64,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 06:11",
+    "temp": 20.12,
+    "moist": 51.0,
+    "brightness": 56.0,
+    "green": 45.12,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 06:41",
+    "temp": 20.19,
+    "moist": 51.0,
+    "brightness": 50.0,
+    "green": 60.35,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 07:11",
+    "temp": 20.12,
+    "moist": 49.0,
+    "brightness": 58.0,
+    "green": 51.17,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 07:41",
+    "temp": 20.25,
+    "moist": 56.0,
+    "brightness": 55.0,
+    "green": 56.02,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 08:11",
+    "temp": 20.25,
+    "moist": 50.0,
+    "brightness": 56.0,
+    "green": 56.97,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 08:41",
+    "temp": 20.31,
+    "moist": 53.0,
+    "brightness": 58.0,
+    "green": 53.52,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 09:11",
+    "temp": 20.62,
+    "moist": 50.0,
+    "brightness": 57.0,
+    "green": 56.12,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 09:41",
+    "temp": 20.56,
+    "moist": 50.0,
+    "brightness": 57.0,
+    "green": 53.91,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 10:11",
+    "temp": 20.75,
+    "moist": 49.0,
+    "brightness": 57.0,
+    "green": 47.07,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 10:41",
+    "temp": 20.81,
+    "moist": 49.0,
+    "brightness": 53.0,
+    "green": 49.67,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 11:11",
+    "temp": 20.81,
+    "moist": 48.0,
+    "brightness": 53.0,
+    "green": 61.04,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 11:41",
+    "temp": 20.69,
+    "moist": 46.0,
+    "brightness": 53.0,
+    "green": 63.83,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 12:11",
+    "temp": 20.75,
+    "moist": 60.0,
+    "brightness": 59.0,
+    "green": 56.25,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 12:41",
+    "temp": 20.56,
+    "moist": 100.0,
+    "brightness": 44.0,
+    "green": 35.77,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 13:11",
+    "temp": 20.25,
+    "moist": 100.0,
+    "brightness": 41.0,
+    "green": 28.52,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-17 14:04",
+    "temp": 21.75,
+    "moist": 43.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Overdried"
+  },
+  {
+    "timestamp": "07-18 06:04",
+    "temp": 19.94,
+    "moist": 32.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-18 08:34",
+    "temp": 20.69,
+    "moist": 31.0,
+    "brightness": 0.0,
+    "green": -0.0,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-19 08:27",
+    "temp": 20.0,
+    "moist": 93.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-19 10:57",
+    "temp": 20.62,
+    "moist": 92.0,
+    "brightness": 1.4030365625137968e+20,
+    "green": 216.16,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-20 10:57",
+    "temp": 20.38,
+    "moist": 89.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-20 13:57",
+    "temp": 20.56,
+    "moist": 89.0,
+    "brightness": 0.0,
+    "green": 12373.81,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 05:49",
+    "temp": 20.56,
+    "moist": 88.0,
+    "brightness": 16.0,
+    "green": 30.57,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 06:19",
+    "temp": 20.56,
+    "moist": 87.0,
+    "brightness": 27.0,
+    "green": 33.56,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 06:49",
+    "temp": 20.5,
+    "moist": 88.0,
+    "brightness": 37.0,
+    "green": 38.77,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 07:19",
+    "temp": 20.56,
+    "moist": 87.0,
+    "brightness": 41.0,
+    "green": 34.54,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 07:49",
+    "temp": 20.56,
+    "moist": 88.0,
+    "brightness": 47.0,
+    "green": 33.95,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 08:19",
+    "temp": 20.69,
+    "moist": 87.0,
+    "brightness": 45.0,
+    "green": 34.24,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 08:49",
+    "temp": 20.69,
+    "moist": 87.0,
+    "brightness": 47.0,
+    "green": 34.99,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 09:19",
+    "temp": 20.56,
+    "moist": 87.0,
+    "brightness": 46.0,
+    "green": 34.11,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 09:49",
+    "temp": 20.56,
+    "moist": 87.0,
+    "brightness": 46.0,
+    "green": 35.38,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 10:19",
+    "temp": 20.69,
+    "moist": 87.0,
+    "brightness": 42.0,
+    "green": 36.26,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 10:49",
+    "temp": 20.81,
+    "moist": 87.0,
+    "brightness": 47.0,
+    "green": 33.63,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 11:19",
+    "temp": 20.94,
+    "moist": 87.0,
+    "brightness": 44.0,
+    "green": 36.39,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 11:49",
+    "temp": 20.75,
+    "moist": 87.0,
+    "brightness": 43.0,
+    "green": 37.08,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 12:19",
+    "temp": 20.88,
+    "moist": 87.0,
+    "brightness": 45.0,
+    "green": 33.53,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 12:49",
+    "temp": 20.94,
+    "moist": 87.0,
+    "brightness": 42.0,
+    "green": 33.24,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 13:19",
+    "temp": 21.0,
+    "moist": 86.0,
+    "brightness": 47.0,
+    "green": 32.88,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 13:49",
+    "temp": 21.31,
+    "moist": 87.0,
+    "brightness": 42.0,
+    "green": 39.65,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 14:19",
+    "temp": 21.12,
+    "moist": 87.0,
+    "brightness": 43.0,
+    "green": 38.48,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 14:49",
+    "temp": 20.94,
+    "moist": 86.0,
+    "brightness": 44.0,
+    "green": 37.37,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 15:19",
+    "temp": 21.38,
+    "moist": 86.0,
+    "brightness": 46.0,
+    "green": 35.71,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 15:49",
+    "temp": 21.31,
+    "moist": 86.0,
+    "brightness": 47.0,
+    "green": 33.5,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 16:19",
+    "temp": 21.19,
+    "moist": 72.0,
+    "brightness": 46.0,
+    "green": 32.0,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 16:49",
+    "temp": 21.5,
+    "moist": 72.0,
+    "brightness": 45.0,
+    "green": 35.58,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 17:19",
+    "temp": 21.38,
+    "moist": 72.0,
+    "brightness": 45.0,
+    "green": 32.68,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 17:49",
+    "temp": 21.25,
+    "moist": 73.0,
+    "brightness": 45.0,
+    "green": 38.28,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 18:19",
+    "temp": 21.38,
+    "moist": 72.0,
+    "brightness": 45.0,
+    "green": 35.74,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 18:49",
+    "temp": 21.25,
+    "moist": 73.0,
+    "brightness": 43.0,
+    "green": 36.75,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 19:19",
+    "temp": 21.12,
+    "moist": 73.0,
+    "brightness": 44.0,
+    "green": 35.48,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 19:49",
+    "temp": 21.12,
+    "moist": 73.0,
+    "brightness": 41.0,
+    "green": 37.4,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 20:19",
+    "temp": 21.0,
+    "moist": 73.0,
+    "brightness": 43.0,
+    "green": 36.2,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 20:49",
+    "temp": 20.81,
+    "moist": 73.0,
+    "brightness": 18.0,
+    "green": 33.89,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 21:19",
+    "temp": 20.81,
+    "moist": 73.0,
+    "brightness": 9.0,
+    "green": 15.14,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-21 21:49",
+    "temp": 20.69,
+    "moist": 73.0,
+    "brightness": 2.0,
+    "green": 0.0,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 05:49",
+    "temp": 20.25,
+    "moist": 59.0,
+    "brightness": 12.0,
+    "green": 5.79,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 06:19",
+    "temp": 20.25,
+    "moist": 73.0,
+    "brightness": 32.0,
+    "green": 35.09,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 06:49",
+    "temp": 20.19,
+    "moist": 74.0,
+    "brightness": 35.0,
+    "green": 36.17,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 07:19",
+    "temp": 20.19,
+    "moist": 74.0,
+    "brightness": 49.0,
+    "green": 31.15,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 07:49",
+    "temp": 20.25,
+    "moist": 74.0,
+    "brightness": 45.0,
+    "green": 35.32,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 08:19",
+    "temp": 20.25,
+    "moist": 74.0,
+    "brightness": 45.0,
+    "green": 35.16,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 08:49",
+    "temp": 20.44,
+    "moist": 73.0,
+    "brightness": 46.0,
+    "green": 33.46,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 09:19",
+    "temp": 20.5,
+    "moist": 74.0,
+    "brightness": 45.0,
+    "green": 37.73,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 09:49",
+    "temp": 20.44,
+    "moist": 74.0,
+    "brightness": 46.0,
+    "green": 35.71,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 10:19",
+    "temp": 20.5,
+    "moist": 74.0,
+    "brightness": 44.0,
+    "green": 37.08,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 10:49",
+    "temp": 20.5,
+    "moist": 74.0,
+    "brightness": 42.0,
+    "green": 39.39,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 11:19",
+    "temp": 20.69,
+    "moist": 74.0,
+    "brightness": 45.0,
+    "green": 34.31,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 11:49",
+    "temp": 20.81,
+    "moist": 74.0,
+    "brightness": 45.0,
+    "green": 33.92,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 12:19",
+    "temp": 20.88,
+    "moist": 74.0,
+    "brightness": 44.0,
+    "green": 34.77,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 12:49",
+    "temp": 20.94,
+    "moist": 74.0,
+    "brightness": 44.0,
+    "green": 34.93,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 13:19",
+    "temp": 21.0,
+    "moist": 74.0,
+    "brightness": 46.0,
+    "green": 34.38,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 13:49",
+    "temp": 21.06,
+    "moist": 88.0,
+    "brightness": 44.0,
+    "green": 35.77,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 14:19",
+    "temp": 21.19,
+    "moist": 74.0,
+    "brightness": 44.0,
+    "green": 35.58,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 14:49",
+    "temp": 21.19,
+    "moist": 74.0,
+    "brightness": 46.0,
+    "green": 33.95,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 15:19",
+    "temp": 21.06,
+    "moist": 74.0,
+    "brightness": 44.0,
+    "green": 38.93,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 15:49",
+    "temp": 21.19,
+    "moist": 74.0,
+    "brightness": 44.0,
+    "green": 31.84,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 16:34",
+    "temp": 21.38,
+    "moist": 55.0,
+    "brightness": 41.0,
+    "green": 38.48,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 17:04",
+    "temp": 21.5,
+    "moist": 55.0,
+    "brightness": 44.0,
+    "green": 29.95,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 17:34",
+    "temp": 21.31,
+    "moist": 56.0,
+    "brightness": 44.0,
+    "green": 29.79,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 18:04",
+    "temp": 21.19,
+    "moist": 56.0,
+    "brightness": 44.0,
+    "green": 32.55,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 18:34",
+    "temp": 21.12,
+    "moist": 56.0,
+    "brightness": 42.0,
+    "green": 35.06,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 19:04",
+    "temp": 21.06,
+    "moist": 56.0,
+    "brightness": 41.0,
+    "green": 33.46,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 19:34",
+    "temp": 21.0,
+    "moist": 51.0,
+    "brightness": 42.0,
+    "green": 34.05,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 20:04",
+    "temp": 20.94,
+    "moist": 56.0,
+    "brightness": 43.0,
+    "green": 29.79,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 20:34",
+    "temp": 21.0,
+    "moist": 57.0,
+    "brightness": 37.0,
+    "green": 35.06,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 21:04",
+    "temp": 20.94,
+    "moist": 57.0,
+    "brightness": 26.0,
+    "green": 30.96,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-22 21:34",
+    "temp": 20.81,
+    "moist": 57.0,
+    "brightness": 6.0,
+    "green": 6.22,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-23 05:34",
+    "temp": 19.44,
+    "moist": 58.0,
+    "brightness": 6.0,
+    "green": 0.85,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-23 06:04",
+    "temp": 19.56,
+    "moist": 58.0,
+    "brightness": 30.0,
+    "green": 28.87,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-23 06:34",
+    "temp": 19.88,
+    "moist": 59.0,
+    "brightness": 51.0,
+    "green": 25.91,
+    "label": "Shocked"
+  },
+  {
+    "timestamp": "07-23 07:04",
+    "temp": 19.25,
+    "moist": 58.0,
+    "brightness": 57.0,
+    "green": 54.95,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 07:34",
+    "temp": 19.31,
+    "moist": 51.0,
+    "brightness": 54.0,
+    "green": 59.31,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 08:04",
+    "temp": 19.44,
+    "moist": 49.0,
+    "brightness": 59.0,
+    "green": 57.62,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 08:34",
+    "temp": 19.56,
+    "moist": 49.0,
+    "brightness": 59.0,
+    "green": 59.31,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 09:04",
+    "temp": 19.62,
+    "moist": 49.0,
+    "brightness": 57.0,
+    "green": 60.9,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 09:34",
+    "temp": 19.75,
+    "moist": 48.0,
+    "brightness": 56.0,
+    "green": 66.37,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 10:04",
+    "temp": 19.88,
+    "moist": 48.0,
+    "brightness": 52.0,
+    "green": 64.16,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 10:34",
+    "temp": 20.06,
+    "moist": 48.0,
+    "brightness": 56.0,
+    "green": 51.04,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 11:04",
+    "temp": 20.0,
+    "moist": 48.0,
+    "brightness": 57.0,
+    "green": 52.44,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 11:34",
+    "temp": 20.12,
+    "moist": 48.0,
+    "brightness": 55.0,
+    "green": 57.62,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 12:04",
+    "temp": 20.44,
+    "moist": 48.0,
+    "brightness": 58.0,
+    "green": 57.49,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 12:34",
+    "temp": 20.5,
+    "moist": 48.0,
+    "brightness": 56.0,
+    "green": 56.9,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 13:04",
+    "temp": 20.62,
+    "moist": 48.0,
+    "brightness": 53.0,
+    "green": 60.12,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 13:34",
+    "temp": 20.56,
+    "moist": 48.0,
+    "brightness": 54.0,
+    "green": 57.71,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 14:04",
+    "temp": 21.06,
+    "moist": 49.0,
+    "brightness": 56.0,
+    "green": 54.95,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 14:34",
+    "temp": 21.81,
+    "moist": 47.0,
+    "brightness": 53.0,
+    "green": 56.58,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 15:04",
+    "temp": 21.88,
+    "moist": 47.0,
+    "brightness": 55.0,
+    "green": 57.39,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 15:34",
+    "temp": 21.81,
+    "moist": 47.0,
+    "brightness": 55.0,
+    "green": 60.32,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 16:04",
+    "temp": 21.81,
+    "moist": 47.0,
+    "brightness": 54.0,
+    "green": 57.88,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 16:34",
+    "temp": 21.69,
+    "moist": 47.0,
+    "brightness": 54.0,
+    "green": 57.32,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 17:04",
+    "temp": 21.25,
+    "moist": 42.0,
+    "brightness": 56.0,
+    "green": 51.14,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 17:34",
+    "temp": 21.38,
+    "moist": 47.0,
+    "brightness": 55.0,
+    "green": 54.65,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 18:04",
+    "temp": 21.12,
+    "moist": 40.0,
+    "brightness": 55.0,
+    "green": 52.64,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 18:34",
+    "temp": 20.94,
+    "moist": 48.0,
+    "brightness": 55.0,
+    "green": 58.56,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 19:04",
+    "temp": 20.81,
+    "moist": 48.0,
+    "brightness": 52.0,
+    "green": 63.96,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 19:34",
+    "temp": 20.75,
+    "moist": 47.0,
+    "brightness": 55.0,
+    "green": 58.66,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 20:04",
+    "temp": 20.69,
+    "moist": 48.0,
+    "brightness": 55.0,
+    "green": 61.43,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 20:34",
+    "temp": 20.62,
+    "moist": 48.0,
+    "brightness": 54.0,
+    "green": 55.01,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 21:04",
+    "temp": 20.5,
+    "moist": 48.0,
+    "brightness": 42.0,
+    "green": 59.11,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-23 21:34",
+    "temp": 20.5,
+    "moist": 47.0,
+    "brightness": 6.0,
+    "green": 3.22,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 05:41",
+    "temp": 19.19,
+    "moist": 49.0,
+    "brightness": 6.0,
+    "green": 0.88,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 06:11",
+    "temp": 19.12,
+    "moist": 47.0,
+    "brightness": 42.0,
+    "green": 53.42,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 06:41",
+    "temp": 19.19,
+    "moist": 48.0,
+    "brightness": 54.0,
+    "green": 51.04,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 07:11",
+    "temp": 19.12,
+    "moist": 56.0,
+    "brightness": 55.0,
+    "green": 54.13,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 07:41",
+    "temp": 19.19,
+    "moist": 47.0,
+    "brightness": 57.0,
+    "green": 60.29,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 08:11",
+    "temp": 19.12,
+    "moist": 47.0,
+    "brightness": 56.0,
+    "green": 58.59,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 08:41",
+    "temp": 17.94,
+    "moist": 96.0,
+    "brightness": 41.0,
+    "green": 31.38,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 09:11",
+    "temp": 18.75,
+    "moist": 95.0,
+    "brightness": 45.0,
+    "green": 31.25,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 09:41",
+    "temp": 19.25,
+    "moist": 94.0,
+    "brightness": 45.0,
+    "green": 30.08,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 10:11",
+    "temp": 19.56,
+    "moist": 93.0,
+    "brightness": 44.0,
+    "green": 31.71,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 10:41",
+    "temp": 19.94,
+    "moist": 93.0,
+    "brightness": 46.0,
+    "green": 31.35,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 11:11",
+    "temp": 20.12,
+    "moist": 92.0,
+    "brightness": 43.0,
+    "green": 30.63,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 11:41",
+    "temp": 20.38,
+    "moist": 92.0,
+    "brightness": 46.0,
+    "green": 28.09,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 12:11",
+    "temp": 20.56,
+    "moist": 91.0,
+    "brightness": 41.0,
+    "green": 31.28,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 12:41",
+    "temp": 20.75,
+    "moist": 91.0,
+    "brightness": 42.0,
+    "green": 29.1,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 13:11",
+    "temp": 21.0,
+    "moist": 91.0,
+    "brightness": 45.0,
+    "green": 29.75,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 13:41",
+    "temp": 21.06,
+    "moist": 90.0,
+    "brightness": 45.0,
+    "green": 28.19,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 14:11",
+    "temp": 21.19,
+    "moist": 82.0,
+    "brightness": 46.0,
+    "green": 24.87,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 14:41",
+    "temp": 23.31,
+    "moist": 90.0,
+    "brightness": 46.0,
+    "green": 25.52,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 15:11",
+    "temp": 23.06,
+    "moist": 90.0,
+    "brightness": 44.0,
+    "green": 26.95,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 15:41",
+    "temp": 22.69,
+    "moist": 90.0,
+    "brightness": 49.0,
+    "green": 28.91,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 16:11",
+    "temp": 22.38,
+    "moist": 89.0,
+    "brightness": 46.0,
+    "green": 29.65,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 16:41",
+    "temp": 22.31,
+    "moist": 89.0,
+    "brightness": 46.0,
+    "green": 29.36,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 17:11",
+    "temp": 22.25,
+    "moist": 89.0,
+    "brightness": 42.0,
+    "green": 30.66,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 17:41",
+    "temp": 22.06,
+    "moist": 87.0,
+    "brightness": 44.0,
+    "green": 32.03,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 18:11",
+    "temp": 22.19,
+    "moist": 88.0,
+    "brightness": 46.0,
+    "green": 31.22,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 18:41",
+    "temp": 22.19,
+    "moist": 88.0,
+    "brightness": 42.0,
+    "green": 34.18,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 19:11",
+    "temp": 22.12,
+    "moist": 88.0,
+    "brightness": 44.0,
+    "green": 31.71,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 19:41",
+    "temp": 22.12,
+    "moist": 87.0,
+    "brightness": 45.0,
+    "green": 31.64,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 20:11",
+    "temp": 22.0,
+    "moist": 88.0,
+    "brightness": 43.0,
+    "green": 35.16,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 20:41",
+    "temp": 21.94,
+    "moist": 87.0,
+    "brightness": 27.0,
+    "green": 33.79,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 21:11",
+    "temp": 21.81,
+    "moist": 87.0,
+    "brightness": 14.0,
+    "green": 15.66,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-24 21:41",
+    "temp": 21.75,
+    "moist": 87.0,
+    "brightness": 3.0,
+    "green": 2.34,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 05:41",
+    "temp": 20.88,
+    "moist": 80.0,
+    "brightness": 4.0,
+    "green": 0.0,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 06:11",
+    "temp": 20.81,
+    "moist": 86.0,
+    "brightness": 37.0,
+    "green": 50.52,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 06:41",
+    "temp": 20.75,
+    "moist": 86.0,
+    "brightness": 50.0,
+    "green": 48.27,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 07:11",
+    "temp": 20.81,
+    "moist": 91.0,
+    "brightness": 54.0,
+    "green": 62.08,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 07:41",
+    "temp": 20.81,
+    "moist": 86.0,
+    "brightness": 56.0,
+    "green": 59.64,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 08:11",
+    "temp": 20.81,
+    "moist": 85.0,
+    "brightness": 56.0,
+    "green": 64.58,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 08:41",
+    "temp": 20.94,
+    "moist": 85.0,
+    "brightness": 59.0,
+    "green": 54.92,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 09:11",
+    "temp": 21.06,
+    "moist": 84.0,
+    "brightness": 43.0,
+    "green": 31.58,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 09:41",
+    "temp": 21.19,
+    "moist": 85.0,
+    "brightness": 48.0,
+    "green": 29.95,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 10:11",
+    "temp": 21.25,
+    "moist": 85.0,
+    "brightness": 45.0,
+    "green": 29.3,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 10:41",
+    "temp": 21.44,
+    "moist": 85.0,
+    "brightness": 48.0,
+    "green": 29.49,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 11:26",
+    "temp": 21.38,
+    "moist": 85.0,
+    "brightness": 47.0,
+    "green": 30.89,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 11:56",
+    "temp": 21.62,
+    "moist": 85.0,
+    "brightness": 44.0,
+    "green": 28.32,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 12:26",
+    "temp": 21.62,
+    "moist": 84.0,
+    "brightness": 43.0,
+    "green": 28.61,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 12:56",
+    "temp": 21.81,
+    "moist": 84.0,
+    "brightness": 42.0,
+    "green": 27.83,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 13:26",
+    "temp": 22.12,
+    "moist": 84.0,
+    "brightness": 45.0,
+    "green": 27.83,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 13:56",
+    "temp": 22.25,
+    "moist": 84.0,
+    "brightness": 42.0,
+    "green": 28.39,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 14:26",
+    "temp": 22.31,
+    "moist": 84.0,
+    "brightness": 46.0,
+    "green": 27.47,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 14:56",
+    "temp": 22.31,
+    "moist": 84.0,
+    "brightness": 46.0,
+    "green": 27.86,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 15:26",
+    "temp": 22.12,
+    "moist": 84.0,
+    "brightness": 48.0,
+    "green": 30.14,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 15:56",
+    "temp": 22.12,
+    "moist": 84.0,
+    "brightness": 41.0,
+    "green": 30.14,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 16:26",
+    "temp": 22.12,
+    "moist": 84.0,
+    "brightness": 43.0,
+    "green": 32.58,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 16:56",
+    "temp": 22.19,
+    "moist": 88.0,
+    "brightness": 47.0,
+    "green": 28.81,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 17:26",
+    "temp": 22.31,
+    "moist": 76.0,
+    "brightness": 43.0,
+    "green": 30.34,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 17:56",
+    "temp": 22.12,
+    "moist": 83.0,
+    "brightness": 45.0,
+    "green": 31.51,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 18:26",
+    "temp": 22.06,
+    "moist": 83.0,
+    "brightness": 45.0,
+    "green": 33.53,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 19:31",
+    "temp": 22.06,
+    "moist": 83.0,
+    "brightness": 42.0,
+    "green": 34.28,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 20:31",
+    "temp": 21.75,
+    "moist": 84.0,
+    "brightness": 24.0,
+    "green": 32.88,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 21:01",
+    "temp": 21.62,
+    "moist": 83.0,
+    "brightness": 14.0,
+    "green": 18.72,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-25 21:31",
+    "temp": 21.44,
+    "moist": 83.0,
+    "brightness": 2.0,
+    "green": 1.92,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 05:57",
+    "temp": 20.25,
+    "moist": 94.0,
+    "brightness": 10.0,
+    "green": 3.06,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 06:27",
+    "temp": 20.12,
+    "moist": 94.0,
+    "brightness": 31.0,
+    "green": 38.31,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 06:57",
+    "temp": 20.19,
+    "moist": 94.0,
+    "brightness": 55.0,
+    "green": 50.68,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 07:27",
+    "temp": 20.12,
+    "moist": 94.0,
+    "brightness": 56.0,
+    "green": 57.36,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 07:57",
+    "temp": 20.19,
+    "moist": 94.0,
+    "brightness": 54.0,
+    "green": 56.97,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 08:27",
+    "temp": 20.25,
+    "moist": 94.0,
+    "brightness": 55.0,
+    "green": 61.72,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 08:57",
+    "temp": 20.38,
+    "moist": 94.0,
+    "brightness": 58.0,
+    "green": 55.57,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 09:27",
+    "temp": 20.56,
+    "moist": 94.0,
+    "brightness": 56.0,
+    "green": 60.06,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 09:57",
+    "temp": 20.62,
+    "moist": 93.0,
+    "brightness": 56.0,
+    "green": 50.94,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 10:27",
+    "temp": 20.88,
+    "moist": 94.0,
+    "brightness": 53.0,
+    "green": 59.44,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 10:57",
+    "temp": 21.06,
+    "moist": 93.0,
+    "brightness": 59.0,
+    "green": 58.92,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 11:27",
+    "temp": 21.31,
+    "moist": 93.0,
+    "brightness": 54.0,
+    "green": 57.85,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 11:57",
+    "temp": 21.19,
+    "moist": 93.0,
+    "brightness": 55.0,
+    "green": 50.0,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 12:27",
+    "temp": 21.5,
+    "moist": 93.0,
+    "brightness": 57.0,
+    "green": 56.93,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 12:57",
+    "temp": 21.56,
+    "moist": 91.0,
+    "brightness": 56.0,
+    "green": 55.92,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 13:27",
+    "temp": 21.62,
+    "moist": 93.0,
+    "brightness": 54.0,
+    "green": 57.55,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 13:57",
+    "temp": 21.81,
+    "moist": 93.0,
+    "brightness": 56.0,
+    "green": 59.38,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 14:27",
+    "temp": 22.75,
+    "moist": 93.0,
+    "brightness": 51.0,
+    "green": 58.66,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 14:57",
+    "temp": 25.25,
+    "moist": 92.0,
+    "brightness": 59.0,
+    "green": 53.09,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 15:27",
+    "temp": 23.62,
+    "moist": 92.0,
+    "brightness": 57.0,
+    "green": 57.32,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 15:57",
+    "temp": 23.12,
+    "moist": 92.0,
+    "brightness": 57.0,
+    "green": 47.53,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 16:27",
+    "temp": 22.75,
+    "moist": 92.0,
+    "brightness": 51.0,
+    "green": 55.37,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 16:57",
+    "temp": 22.62,
+    "moist": 92.0,
+    "brightness": 55.0,
+    "green": 56.38,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 17:27",
+    "temp": 22.44,
+    "moist": 92.0,
+    "brightness": 54.0,
+    "green": 56.18,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 17:57",
+    "temp": 22.06,
+    "moist": 92.0,
+    "brightness": 56.0,
+    "green": 63.05,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 18:27",
+    "temp": 21.88,
+    "moist": 92.0,
+    "brightness": 55.0,
+    "green": 66.63,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 18:57",
+    "temp": 21.69,
+    "moist": 92.0,
+    "brightness": 56.0,
+    "green": 59.73,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 19:28",
+    "temp": 21.69,
+    "moist": 92.0,
+    "brightness": 42.0,
+    "green": 31.12,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 19:58",
+    "temp": 21.62,
+    "moist": 92.0,
+    "brightness": 38.0,
+    "green": 33.66,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 20:28",
+    "temp": 21.56,
+    "moist": 92.0,
+    "brightness": 25.0,
+    "green": 31.45,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 20:58",
+    "temp": 21.5,
+    "moist": 92.0,
+    "brightness": 20.0,
+    "green": 18.59,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 21:28",
+    "temp": 21.44,
+    "moist": 95.0,
+    "brightness": 9.0,
+    "green": 2.77,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-26 21:58",
+    "temp": 21.25,
+    "moist": 92.0,
+    "brightness": 6.0,
+    "green": 6.35,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 05:58",
+    "temp": 19.38,
+    "moist": 92.0,
+    "brightness": 6.0,
+    "green": 5.89,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 06:28",
+    "temp": 19.31,
+    "moist": 92.0,
+    "brightness": 19.0,
+    "green": 25.1,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 06:58",
+    "temp": 19.12,
+    "moist": 92.0,
+    "brightness": 56.0,
+    "green": 51.2,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 07:28",
+    "temp": 18.88,
+    "moist": 92.0,
+    "brightness": 58.0,
+    "green": 51.46,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 07:58",
+    "temp": 18.81,
+    "moist": 92.0,
+    "brightness": 52.0,
+    "green": 61.2,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 08:28",
+    "temp": 18.75,
+    "moist": 93.0,
+    "brightness": 57.0,
+    "green": 56.32,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 08:58",
+    "temp": 18.88,
+    "moist": 92.0,
+    "brightness": 57.0,
+    "green": 57.19,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 09:28",
+    "temp": 19.0,
+    "moist": 92.0,
+    "brightness": 57.0,
+    "green": 61.26,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 09:58",
+    "temp": 19.19,
+    "moist": 92.0,
+    "brightness": 56.0,
+    "green": 54.26,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 10:28",
+    "temp": 19.44,
+    "moist": 92.0,
+    "brightness": 54.0,
+    "green": 52.86,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 10:58",
+    "temp": 19.88,
+    "moist": 92.0,
+    "brightness": 58.0,
+    "green": 66.02,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 11:28",
+    "temp": 19.81,
+    "moist": 92.0,
+    "brightness": 52.0,
+    "green": 67.94,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 11:58",
+    "temp": 20.06,
+    "moist": 92.0,
+    "brightness": 53.0,
+    "green": 57.98,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 12:28",
+    "temp": 20.38,
+    "moist": 88.0,
+    "brightness": 52.0,
+    "green": 56.22,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 12:58",
+    "temp": 20.62,
+    "moist": 92.0,
+    "brightness": 54.0,
+    "green": 57.88,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 13:28",
+    "temp": 20.56,
+    "moist": 92.0,
+    "brightness": 53.0,
+    "green": 63.18,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 13:58",
+    "temp": 20.56,
+    "moist": 92.0,
+    "brightness": 58.0,
+    "green": 60.9,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 14:28",
+    "temp": 22.75,
+    "moist": 92.0,
+    "brightness": 57.0,
+    "green": 55.4,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 14:58",
+    "temp": 22.75,
+    "moist": 92.0,
+    "brightness": 54.0,
+    "green": 53.61,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 15:28",
+    "temp": 21.88,
+    "moist": 92.0,
+    "brightness": 54.0,
+    "green": 53.48,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 15:58",
+    "temp": 21.81,
+    "moist": 92.0,
+    "brightness": 52.0,
+    "green": 58.56,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 16:28",
+    "temp": 21.69,
+    "moist": 92.0,
+    "brightness": 56.0,
+    "green": 55.08,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 16:58",
+    "temp": 21.69,
+    "moist": 92.0,
+    "brightness": 55.0,
+    "green": 54.79,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 17:28",
+    "temp": 21.44,
+    "moist": 91.0,
+    "brightness": 54.0,
+    "green": 55.5,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 17:58",
+    "temp": 21.38,
+    "moist": 92.0,
+    "brightness": 53.0,
+    "green": 52.05,
+    "label": "Healthy"
+  },
+  {
+    "timestamp": "07-27 18:28",
+    "temp": 21.25,
+    "moist": 92.0,
+    "brightness": 51.0,
+    "green": 58.27,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 18:58",
+    "temp": 21.0,
+    "moist": 92.0,
+    "brightness": 52.0,
+    "green": 58.95,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 19:28",
+    "temp": 20.88,
+    "moist": 92.0,
+    "brightness": 53.0,
+    "green": 60.16,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 19:58",
+    "temp": 20.75,
+    "moist": 92.0,
+    "brightness": 51.0,
+    "green": 65.27,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 20:28",
+    "temp": 20.69,
+    "moist": 92.0,
+    "brightness": 56.0,
+    "green": 52.7,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 20:58",
+    "temp": 20.69,
+    "moist": 92.0,
+    "brightness": 32.0,
+    "green": 52.93,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 21:28",
+    "temp": 19.62,
+    "moist": 100.0,
+    "brightness": 27.0,
+    "green": 36.07,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-27 21:58",
+    "temp": 18.88,
+    "moist": 100.0,
+    "brightness": 21.0,
+    "green": 36.69,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 05:33",
+    "temp": 20.12,
+    "moist": 86.0,
+    "brightness": 5.0,
+    "green": 4.52,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 06:03",
+    "temp": 20.19,
+    "moist": 86.0,
+    "brightness": 8.0,
+    "green": 0.91,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 06:33",
+    "temp": 20.12,
+    "moist": 86.0,
+    "brightness": 24.0,
+    "green": 28.29,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 07:03",
+    "temp": 20.19,
+    "moist": 86.0,
+    "brightness": 33.0,
+    "green": 35.77,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 07:33",
+    "temp": 20.12,
+    "moist": 86.0,
+    "brightness": 47.0,
+    "green": 33.66,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 08:03",
+    "temp": 20.31,
+    "moist": 86.0,
+    "brightness": 48.0,
+    "green": 33.01,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 09:03",
+    "temp": 20.38,
+    "moist": 85.0,
+    "brightness": 44.0,
+    "green": 35.97,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 09:33",
+    "temp": 20.38,
+    "moist": 85.0,
+    "brightness": 48.0,
+    "green": 35.81,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 10:03",
+    "temp": 20.44,
+    "moist": 85.0,
+    "brightness": 43.0,
+    "green": 34.8,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 10:33",
+    "temp": 20.44,
+    "moist": 85.0,
+    "brightness": 46.0,
+    "green": 36.62,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 11:03",
+    "temp": 20.62,
+    "moist": 85.0,
+    "brightness": 47.0,
+    "green": 33.53,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 11:33",
+    "temp": 20.75,
+    "moist": 84.0,
+    "brightness": 45.0,
+    "green": 37.73,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 12:03",
+    "temp": 20.75,
+    "moist": 85.0,
+    "brightness": 42.0,
+    "green": 34.77,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 12:33",
+    "temp": 20.88,
+    "moist": 85.0,
+    "brightness": 46.0,
+    "green": 33.89,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 13:03",
+    "temp": 21.0,
+    "moist": 84.0,
+    "brightness": 45.0,
+    "green": 34.02,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 13:33",
+    "temp": 20.88,
+    "moist": 84.0,
+    "brightness": 42.0,
+    "green": 38.15,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 14:03",
+    "temp": 20.94,
+    "moist": 84.0,
+    "brightness": 49.0,
+    "green": 33.2,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 14:33",
+    "temp": 21.06,
+    "moist": 84.0,
+    "brightness": 48.0,
+    "green": 34.11,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 15:03",
+    "temp": 21.19,
+    "moist": 84.0,
+    "brightness": 50.0,
+    "green": 33.24,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 15:33",
+    "temp": 21.38,
+    "moist": 84.0,
+    "brightness": 44.0,
+    "green": 32.78,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 16:03",
+    "temp": 21.62,
+    "moist": 84.0,
+    "brightness": 48.0,
+    "green": 30.79,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 16:33",
+    "temp": 21.69,
+    "moist": 84.0,
+    "brightness": 47.0,
+    "green": 35.19,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 17:03",
+    "temp": 21.5,
+    "moist": 85.0,
+    "brightness": 48.0,
+    "green": 32.36,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 17:33",
+    "temp": 21.38,
+    "moist": 84.0,
+    "brightness": 47.0,
+    "green": 35.19,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 18:03",
+    "temp": 21.38,
+    "moist": 84.0,
+    "brightness": 46.0,
+    "green": 34.6,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 18:33",
+    "temp": 21.31,
+    "moist": 83.0,
+    "brightness": 47.0,
+    "green": 34.57,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 19:03",
+    "temp": 21.38,
+    "moist": 85.0,
+    "brightness": 42.0,
+    "green": 35.55,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 19:33",
+    "temp": 21.25,
+    "moist": 83.0,
+    "brightness": 43.0,
+    "green": 36.23,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 20:03",
+    "temp": 21.12,
+    "moist": 83.0,
+    "brightness": 36.0,
+    "green": 37.4,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 20:33",
+    "temp": 21.06,
+    "moist": 83.0,
+    "brightness": 18.0,
+    "green": 27.25,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 21:03",
+    "temp": 21.0,
+    "moist": 83.0,
+    "brightness": 4.0,
+    "green": 5.89,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-28 21:33",
+    "temp": 20.94,
+    "moist": 83.0,
+    "brightness": 1.0,
+    "green": 0.0,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-29 05:52",
+    "temp": 20.31,
+    "moist": 81.0,
+    "brightness": -3.350693008749695e+38,
+    "green": 0.0,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-29 06:52",
+    "temp": 20.25,
+    "moist": 82.0,
+    "brightness": 0.0,
+    "green": 186.22,
+    "label": "Overwatered"
+  },
+  {
+    "timestamp": "07-30 09:59",
+    "temp": 20.56,
+    "moist": 80.0,
+    "brightness": 0.0,
+    "green": -0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 14:56",
+    "temp": 22.19,
+    "moist": 53.0,
+    "brightness": 40.0,
+    "green": 30.86,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 15:26",
+    "temp": 22.44,
+    "moist": 53.0,
+    "brightness": 38.0,
+    "green": 32.71,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 15:56",
+    "temp": 22.31,
+    "moist": 53.0,
+    "brightness": 38.0,
+    "green": 32.39,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 16:30",
+    "temp": 22.44,
+    "moist": 53.0,
+    "brightness": 38.0,
+    "green": 33.66,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 17:00",
+    "temp": 22.5,
+    "moist": 52.0,
+    "brightness": 44.0,
+    "green": 27.96,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 17:50",
+    "temp": 22.56,
+    "moist": 53.0,
+    "brightness": 41.0,
+    "green": 26.89,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-30 18:24",
+    "temp": 22.5,
+    "moist": 53.0,
+    "brightness": 42.0,
+    "green": 29.23,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 05:35",
+    "temp": 20.69,
+    "moist": 51.0,
+    "brightness": 1.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 06:05",
+    "temp": 20.62,
+    "moist": 51.0,
+    "brightness": 14.0,
+    "green": 19.11,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 06:35",
+    "temp": 20.62,
+    "moist": 51.0,
+    "brightness": 49.0,
+    "green": 45.67,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 07:05",
+    "temp": 20.62,
+    "moist": 51.0,
+    "brightness": 56.0,
+    "green": 54.56,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 07:35",
+    "temp": 20.69,
+    "moist": 51.0,
+    "brightness": 55.0,
+    "green": 55.08,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 08:05",
+    "temp": 20.75,
+    "moist": 51.0,
+    "brightness": 57.0,
+    "green": 53.84,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 08:35",
+    "temp": 20.88,
+    "moist": 51.0,
+    "brightness": 57.0,
+    "green": 57.36,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 09:05",
+    "temp": 20.94,
+    "moist": 48.0,
+    "brightness": 51.0,
+    "green": 57.32,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 09:35",
+    "temp": 21.12,
+    "moist": 50.0,
+    "brightness": 42.0,
+    "green": 27.15,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 10:05",
+    "temp": 21.31,
+    "moist": 50.0,
+    "brightness": 41.0,
+    "green": 27.41,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 10:35",
+    "temp": 20.69,
+    "moist": 50.0,
+    "brightness": 42.0,
+    "green": 23.6,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 11:05",
+    "temp": 20.81,
+    "moist": 50.0,
+    "brightness": 40.0,
+    "green": 27.73,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 11:35",
+    "temp": 21.12,
+    "moist": 50.0,
+    "brightness": 40.0,
+    "green": 28.26,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 12:05",
+    "temp": 21.25,
+    "moist": 49.0,
+    "brightness": 40.0,
+    "green": 32.78,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 12:35",
+    "temp": 21.75,
+    "moist": 49.0,
+    "brightness": 39.0,
+    "green": 33.2,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 13:05",
+    "temp": 21.88,
+    "moist": 49.0,
+    "brightness": 43.0,
+    "green": 26.27,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 13:35",
+    "temp": 22.0,
+    "moist": 49.0,
+    "brightness": 41.0,
+    "green": 30.6,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 14:05",
+    "temp": 22.19,
+    "moist": 50.0,
+    "brightness": 41.0,
+    "green": 27.8,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 14:35",
+    "temp": 22.38,
+    "moist": 53.0,
+    "brightness": 41.0,
+    "green": 27.12,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 15:05",
+    "temp": 22.69,
+    "moist": 47.0,
+    "brightness": 51.0,
+    "green": 33.63,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 15:35",
+    "temp": 22.81,
+    "moist": 48.0,
+    "brightness": 43.0,
+    "green": 25.42,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 16:05",
+    "temp": 23.0,
+    "moist": 47.0,
+    "brightness": 43.0,
+    "green": 30.47,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 16:35",
+    "temp": 23.12,
+    "moist": 48.0,
+    "brightness": 44.0,
+    "green": 28.32,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 17:05",
+    "temp": 22.88,
+    "moist": 47.0,
+    "brightness": 42.0,
+    "green": 29.79,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 17:35",
+    "temp": 23.0,
+    "moist": 60.0,
+    "brightness": 39.0,
+    "green": 29.92,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 18:05",
+    "temp": 22.88,
+    "moist": 39.0,
+    "brightness": 41.0,
+    "green": 28.68,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 18:35",
+    "temp": 22.75,
+    "moist": 47.0,
+    "brightness": 40.0,
+    "green": 26.6,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 19:05",
+    "temp": 22.62,
+    "moist": 47.0,
+    "brightness": 38.0,
+    "green": 32.32,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 19:35",
+    "temp": 22.44,
+    "moist": 49.0,
+    "brightness": 40.0,
+    "green": 29.82,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 20:05",
+    "temp": 22.25,
+    "moist": 47.0,
+    "brightness": 40.0,
+    "green": 26.2,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 20:35",
+    "temp": 22.0,
+    "moist": 48.0,
+    "brightness": 37.0,
+    "green": 27.7,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 21:05",
+    "temp": 21.81,
+    "moist": 47.0,
+    "brightness": 22.0,
+    "green": 26.5,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "07-31 21:35",
+    "temp": 21.62,
+    "moist": 48.0,
+    "brightness": 1.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 05:35",
+    "temp": 19.5,
+    "moist": 47.0,
+    "brightness": 2.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 06:05",
+    "temp": 19.56,
+    "moist": 47.0,
+    "brightness": 10.0,
+    "green": 10.71,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 06:35",
+    "temp": 19.5,
+    "moist": 51.0,
+    "brightness": 41.0,
+    "green": 60.97,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 07:05",
+    "temp": 19.5,
+    "moist": 47.0,
+    "brightness": 56.0,
+    "green": 53.19,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 07:35",
+    "temp": 19.56,
+    "moist": 46.0,
+    "brightness": 55.0,
+    "green": 59.18,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 08:05",
+    "temp": 19.62,
+    "moist": 47.0,
+    "brightness": 56.0,
+    "green": 60.03,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 08:35",
+    "temp": 19.75,
+    "moist": 47.0,
+    "brightness": 53.0,
+    "green": 62.99,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 09:05",
+    "temp": 19.81,
+    "moist": 47.0,
+    "brightness": 58.0,
+    "green": 53.61,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 09:35",
+    "temp": 19.94,
+    "moist": 46.0,
+    "brightness": 53.0,
+    "green": 59.6,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 10:05",
+    "temp": 19.94,
+    "moist": 47.0,
+    "brightness": 56.0,
+    "green": 52.05,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 10:35",
+    "temp": 20.12,
+    "moist": 46.0,
+    "brightness": 52.0,
+    "green": 55.79,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 11:05",
+    "temp": 20.44,
+    "moist": 46.0,
+    "brightness": 55.0,
+    "green": 55.21,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 11:35",
+    "temp": 20.56,
+    "moist": 46.0,
+    "brightness": 52.0,
+    "green": 54.79,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 12:05",
+    "temp": 20.81,
+    "moist": 45.0,
+    "brightness": 41.0,
+    "green": 27.7,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 12:35",
+    "temp": 20.94,
+    "moist": 46.0,
+    "brightness": 40.0,
+    "green": 29.43,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 13:05",
+    "temp": 20.94,
+    "moist": 46.0,
+    "brightness": 41.0,
+    "green": 32.65,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 13:35",
+    "temp": 21.12,
+    "moist": 46.0,
+    "brightness": 40.0,
+    "green": 29.62,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 14:05",
+    "temp": 21.38,
+    "moist": 45.0,
+    "brightness": 41.0,
+    "green": 27.96,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 14:35",
+    "temp": 21.38,
+    "moist": 46.0,
+    "brightness": 43.0,
+    "green": 26.56,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 15:05",
+    "temp": 22.56,
+    "moist": 45.0,
+    "brightness": 44.0,
+    "green": 31.02,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 15:35",
+    "temp": 21.88,
+    "moist": 45.0,
+    "brightness": 44.0,
+    "green": 27.02,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 16:05",
+    "temp": 21.75,
+    "moist": 45.0,
+    "brightness": 44.0,
+    "green": 29.3,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 16:35",
+    "temp": 21.56,
+    "moist": 44.0,
+    "brightness": 43.0,
+    "green": 31.54,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 17:05",
+    "temp": 21.69,
+    "moist": 45.0,
+    "brightness": 44.0,
+    "green": 25.65,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 17:35",
+    "temp": 21.62,
+    "moist": 45.0,
+    "brightness": 39.0,
+    "green": 32.29,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 18:05",
+    "temp": 21.5,
+    "moist": 44.0,
+    "brightness": 40.0,
+    "green": 32.85,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 18:35",
+    "temp": 21.38,
+    "moist": 44.0,
+    "brightness": 44.0,
+    "green": 24.67,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 19:05",
+    "temp": 21.5,
+    "moist": 45.0,
+    "brightness": 42.0,
+    "green": 25.13,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 19:35",
+    "temp": 21.44,
+    "moist": 44.0,
+    "brightness": 39.0,
+    "green": 30.11,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 20:05",
+    "temp": 21.44,
+    "moist": 36.0,
+    "brightness": 38.0,
+    "green": 29.88,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 20:35",
+    "temp": 21.38,
+    "moist": 44.0,
+    "brightness": 23.0,
+    "green": 29.65,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 21:05",
+    "temp": 21.31,
+    "moist": 52.0,
+    "brightness": 14.0,
+    "green": 7.91,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-01 21:35",
+    "temp": 21.12,
+    "moist": 44.0,
+    "brightness": 5.0,
+    "green": 3.19,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 05:35",
+    "temp": 19.31,
+    "moist": 43.0,
+    "brightness": 1.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 06:05",
+    "temp": 19.25,
+    "moist": 44.0,
+    "brightness": 20.0,
+    "green": 29.49,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 06:35",
+    "temp": 19.25,
+    "moist": 43.0,
+    "brightness": 57.0,
+    "green": 50.88,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 07:05",
+    "temp": 19.25,
+    "moist": 44.0,
+    "brightness": 54.0,
+    "green": 54.79,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 07:35",
+    "temp": 19.31,
+    "moist": 43.0,
+    "brightness": 55.0,
+    "green": 60.35,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 08:05",
+    "temp": 19.25,
+    "moist": 43.0,
+    "brightness": 55.0,
+    "green": 61.13,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 08:35",
+    "temp": 19.38,
+    "moist": 43.0,
+    "brightness": 53.0,
+    "green": 62.5,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 09:05",
+    "temp": 19.5,
+    "moist": 43.0,
+    "brightness": 58.0,
+    "green": 48.96,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 09:35",
+    "temp": 19.69,
+    "moist": 43.0,
+    "brightness": 56.0,
+    "green": 50.2,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 10:05",
+    "temp": 19.88,
+    "moist": 43.0,
+    "brightness": 53.0,
+    "green": 56.22,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 10:35",
+    "temp": 20.0,
+    "moist": 43.0,
+    "brightness": 56.0,
+    "green": 52.44,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 11:05",
+    "temp": 20.12,
+    "moist": 43.0,
+    "brightness": 52.0,
+    "green": 54.65,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 11:35",
+    "temp": 20.38,
+    "moist": 42.0,
+    "brightness": 56.0,
+    "green": 55.83,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 12:05",
+    "temp": 20.56,
+    "moist": 42.0,
+    "brightness": 51.0,
+    "green": 57.06,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 12:35",
+    "temp": 20.69,
+    "moist": 42.0,
+    "brightness": 54.0,
+    "green": 47.88,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 13:05",
+    "temp": 21.12,
+    "moist": 42.0,
+    "brightness": 51.0,
+    "green": 54.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 13:35",
+    "temp": 21.25,
+    "moist": 43.0,
+    "brightness": 55.0,
+    "green": 50.2,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 14:05",
+    "temp": 21.44,
+    "moist": 46.0,
+    "brightness": 55.0,
+    "green": 52.96,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 14:35",
+    "temp": 22.19,
+    "moist": 52.0,
+    "brightness": 51.0,
+    "green": 51.86,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 15:05",
+    "temp": 22.06,
+    "moist": 40.0,
+    "brightness": 44.0,
+    "green": 27.57,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 15:35",
+    "temp": 22.06,
+    "moist": 41.0,
+    "brightness": 45.0,
+    "green": 34.73,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 16:05",
+    "temp": 21.94,
+    "moist": 41.0,
+    "brightness": 41.0,
+    "green": 31.87,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 16:35",
+    "temp": 22.0,
+    "moist": 41.0,
+    "brightness": 39.0,
+    "green": 29.49,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 17:05",
+    "temp": 21.56,
+    "moist": 41.0,
+    "brightness": 42.0,
+    "green": 29.04,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 17:35",
+    "temp": 22.0,
+    "moist": 43.0,
+    "brightness": 40.0,
+    "green": 27.57,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 18:05",
+    "temp": 21.62,
+    "moist": 41.0,
+    "brightness": 41.0,
+    "green": 25.81,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 18:35",
+    "temp": 21.62,
+    "moist": 41.0,
+    "brightness": 37.0,
+    "green": 29.85,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 19:05",
+    "temp": 21.38,
+    "moist": 41.0,
+    "brightness": 40.0,
+    "green": 26.24,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 19:35",
+    "temp": 21.12,
+    "moist": 40.0,
+    "brightness": 37.0,
+    "green": 29.52,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 20:05",
+    "temp": 21.12,
+    "moist": 39.0,
+    "brightness": 23.0,
+    "green": 30.6,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 20:35",
+    "temp": 21.31,
+    "moist": 40.0,
+    "brightness": 21.0,
+    "green": 27.12,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 21:05",
+    "temp": 21.5,
+    "moist": 40.0,
+    "brightness": 3.0,
+    "green": 2.44,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-02 21:35",
+    "temp": 21.44,
+    "moist": 38.0,
+    "brightness": 1.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 05:35",
+    "temp": 20.75,
+    "moist": 40.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 06:05",
+    "temp": 20.69,
+    "moist": 40.0,
+    "brightness": 2.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 06:35",
+    "temp": 20.56,
+    "moist": 40.0,
+    "brightness": 34.0,
+    "green": 56.77,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 07:05",
+    "temp": 20.56,
+    "moist": 40.0,
+    "brightness": 55.0,
+    "green": 52.05,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 07:35",
+    "temp": 20.5,
+    "moist": 40.0,
+    "brightness": 56.0,
+    "green": 58.76,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 08:05",
+    "temp": 20.56,
+    "moist": 40.0,
+    "brightness": 53.0,
+    "green": 59.86,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 08:35",
+    "temp": 20.69,
+    "moist": 40.0,
+    "brightness": 56.0,
+    "green": 60.87,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 09:05",
+    "temp": 20.75,
+    "moist": 40.0,
+    "brightness": 57.0,
+    "green": 61.13,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 09:35",
+    "temp": 20.69,
+    "moist": 39.0,
+    "brightness": 57.0,
+    "green": 56.67,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 10:05",
+    "temp": 21.0,
+    "moist": 39.0,
+    "brightness": 40.0,
+    "green": 36.95,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 10:35",
+    "temp": 21.25,
+    "moist": 39.0,
+    "brightness": 41.0,
+    "green": 34.15,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 11:05",
+    "temp": 21.44,
+    "moist": 39.0,
+    "brightness": 45.0,
+    "green": 29.13,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 11:35",
+    "temp": 21.56,
+    "moist": 41.0,
+    "brightness": 45.0,
+    "green": 34.24,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 12:05",
+    "temp": 21.69,
+    "moist": 39.0,
+    "brightness": 42.0,
+    "green": 27.7,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 12:35",
+    "temp": 21.69,
+    "moist": 38.0,
+    "brightness": 42.0,
+    "green": 24.58,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 13:05",
+    "temp": 21.81,
+    "moist": 38.0,
+    "brightness": 42.0,
+    "green": 25.78,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 13:35",
+    "temp": 22.12,
+    "moist": 38.0,
+    "brightness": 43.0,
+    "green": 27.08,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 14:05",
+    "temp": 22.44,
+    "moist": 42.0,
+    "brightness": 43.0,
+    "green": 29.49,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 14:35",
+    "temp": 22.12,
+    "moist": 37.0,
+    "brightness": 40.0,
+    "green": 28.52,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 15:05",
+    "temp": 22.19,
+    "moist": 37.0,
+    "brightness": 41.0,
+    "green": 30.27,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 15:35",
+    "temp": 22.19,
+    "moist": 37.0,
+    "brightness": 40.0,
+    "green": 33.27,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 16:05",
+    "temp": 22.19,
+    "moist": 37.0,
+    "brightness": 41.0,
+    "green": 33.07,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 16:35",
+    "temp": 22.19,
+    "moist": 36.0,
+    "brightness": 40.0,
+    "green": 33.24,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 17:05",
+    "temp": 22.19,
+    "moist": 36.0,
+    "brightness": 42.0,
+    "green": 31.9,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 17:35",
+    "temp": 22.19,
+    "moist": 36.0,
+    "brightness": 40.0,
+    "green": 33.76,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 18:05",
+    "temp": 22.12,
+    "moist": 37.0,
+    "brightness": 40.0,
+    "green": 32.71,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 18:35",
+    "temp": 22.06,
+    "moist": 36.0,
+    "brightness": 43.0,
+    "green": 29.79,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 19:05",
+    "temp": 22.0,
+    "moist": 36.0,
+    "brightness": 41.0,
+    "green": 29.85,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 19:35",
+    "temp": 21.81,
+    "moist": 36.0,
+    "brightness": 37.0,
+    "green": 33.04,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 20:05",
+    "temp": 21.62,
+    "moist": 36.0,
+    "brightness": 36.0,
+    "green": 31.61,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 20:35",
+    "temp": 21.5,
+    "moist": 36.0,
+    "brightness": 20.0,
+    "green": 29.59,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 21:05",
+    "temp": 21.38,
+    "moist": 36.0,
+    "brightness": 10.0,
+    "green": 2.73,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-03 21:35",
+    "temp": 21.38,
+    "moist": 36.0,
+    "brightness": 5.0,
+    "green": 7.71,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-04 05:43",
+    "temp": 20.69,
+    "moist": 36.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-04 06:13",
+    "temp": 20.62,
+    "moist": 38.0,
+    "brightness": 10.0,
+    "green": 9.11,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-04 06:43",
+    "temp": 20.56,
+    "moist": 36.0,
+    "brightness": 16.0,
+    "green": 26.27,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-04 07:13",
+    "temp": 20.56,
+    "moist": 36.0,
+    "brightness": 48.0,
+    "green": 57.19,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 05:35",
+    "temp": 19.69,
+    "moist": 30.0,
+    "brightness": 0.0,
+    "green": -3.925755452581798e+31,
+    "liveOnly": false,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 06:35",
+    "temp": 19.69,
+    "moist": 39.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "liveOnly": false,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 11:22",
+    "temp": 20.06,
+    "moist": 29.0,
+    "brightness": 42.0,
+    "green": 31.12,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 11:52",
+    "temp": 20.5,
+    "moist": 29.0,
+    "brightness": 43.0,
+    "green": 33.66,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 12:22",
+    "temp": 20.88,
+    "moist": 29.0,
+    "brightness": 39.0,
+    "green": 32.85,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 12:52",
+    "temp": 20.94,
+    "moist": 29.0,
+    "brightness": 43.0,
+    "green": 30.47,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 13:22",
+    "temp": 21.0,
+    "moist": 29.0,
+    "brightness": 44.0,
+    "green": 32.36,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 13:52",
+    "temp": 21.38,
+    "moist": 29.0,
+    "brightness": 44.0,
+    "green": 32.13,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 14:22",
+    "temp": 21.75,
+    "moist": 26.0,
+    "brightness": 44.0,
+    "green": 32.68,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 14:52",
+    "temp": 22.44,
+    "moist": 29.0,
+    "brightness": 45.0,
+    "green": 34.83,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 15:22",
+    "temp": 22.0,
+    "moist": 28.0,
+    "brightness": 43.0,
+    "green": 33.5,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 15:52",
+    "temp": 22.0,
+    "moist": 28.0,
+    "brightness": 44.0,
+    "green": 29.3,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 16:22",
+    "temp": 21.75,
+    "moist": 28.0,
+    "brightness": 43.0,
+    "green": 35.25,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 16:52",
+    "temp": 21.56,
+    "moist": 29.0,
+    "brightness": 45.0,
+    "green": 33.3,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 17:22",
+    "temp": 21.69,
+    "moist": 23.0,
+    "brightness": 41.0,
+    "green": 29.43,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 17:52",
+    "temp": 21.62,
+    "moist": 28.0,
+    "brightness": 44.0,
+    "green": 32.55,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 18:22",
+    "temp": 21.5,
+    "moist": 28.0,
+    "brightness": 41.0,
+    "green": 33.27,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 18:52",
+    "temp": 21.25,
+    "moist": 29.0,
+    "brightness": 44.0,
+    "green": 31.12,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 19:22",
+    "temp": 21.12,
+    "moist": 28.0,
+    "brightness": 39.0,
+    "green": 32.39,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 19:52",
+    "temp": 20.94,
+    "moist": 32.0,
+    "brightness": 37.0,
+    "green": 34.21,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-07 20:22",
+    "temp": 20.94,
+    "moist": 29.0,
+    "brightness": 31.0,
+    "green": 38.15,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 05:36",
+    "temp": 18.94,
+    "moist": 27.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 06:06",
+    "temp": 18.94,
+    "moist": 26.0,
+    "brightness": 4.0,
+    "green": 0.91,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 06:36",
+    "temp": 18.88,
+    "moist": 26.0,
+    "brightness": 33.0,
+    "green": 54.82,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 07:06",
+    "temp": 18.88,
+    "moist": 25.0,
+    "brightness": 58.0,
+    "green": 47.66,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 07:36",
+    "temp": 19.0,
+    "moist": 26.0,
+    "brightness": 53.0,
+    "green": 63.05,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 08:06",
+    "temp": 19.06,
+    "moist": 26.0,
+    "brightness": 55.0,
+    "green": 62.86,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 08:36",
+    "temp": 19.12,
+    "moist": 26.0,
+    "brightness": 53.0,
+    "green": 66.15,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 09:06",
+    "temp": 19.19,
+    "moist": 26.0,
+    "brightness": 57.0,
+    "green": 57.94,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 09:36",
+    "temp": 19.25,
+    "moist": 26.0,
+    "brightness": 50.0,
+    "green": 49.38,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 10:06",
+    "temp": 19.31,
+    "moist": 26.0,
+    "brightness": 55.0,
+    "green": 63.7,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 10:36",
+    "temp": 19.38,
+    "moist": 26.0,
+    "brightness": 52.0,
+    "green": 59.99,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 11:06",
+    "temp": 19.44,
+    "moist": 26.0,
+    "brightness": 54.0,
+    "green": 55.4,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 11:36",
+    "temp": 19.69,
+    "moist": 26.0,
+    "brightness": 54.0,
+    "green": 53.29,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 12:06",
+    "temp": 19.81,
+    "moist": 26.0,
+    "brightness": 51.0,
+    "green": 57.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 12:36",
+    "temp": 19.94,
+    "moist": 26.0,
+    "brightness": 54.0,
+    "green": 57.49,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 13:06",
+    "temp": 19.94,
+    "moist": 26.0,
+    "brightness": 57.0,
+    "green": 45.38,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 13:36",
+    "temp": 20.06,
+    "moist": 26.0,
+    "brightness": 58.0,
+    "green": 50.26,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 14:06",
+    "temp": 20.38,
+    "moist": 26.0,
+    "brightness": 55.0,
+    "green": 51.86,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 14:36",
+    "temp": 21.75,
+    "moist": 25.0,
+    "brightness": 54.0,
+    "green": 55.53,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 15:06",
+    "temp": 22.75,
+    "moist": 23.0,
+    "brightness": 47.0,
+    "green": 50.72,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 15:36",
+    "temp": 22.19,
+    "moist": 30.0,
+    "brightness": 54.0,
+    "green": 51.89,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 16:06",
+    "temp": 21.62,
+    "moist": 24.0,
+    "brightness": 54.0,
+    "green": 51.2,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 16:36",
+    "temp": 21.25,
+    "moist": 22.0,
+    "brightness": 41.0,
+    "green": 34.02,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 17:06",
+    "temp": 21.0,
+    "moist": 23.0,
+    "brightness": 42.0,
+    "green": 32.62,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 17:36",
+    "temp": 20.94,
+    "moist": 23.0,
+    "brightness": 41.0,
+    "green": 33.69,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 18:06",
+    "temp": 20.81,
+    "moist": 23.0,
+    "brightness": 40.0,
+    "green": 34.02,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 18:36",
+    "temp": 20.69,
+    "moist": 18.0,
+    "brightness": 39.0,
+    "green": 34.05,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 19:06",
+    "temp": 20.56,
+    "moist": 23.0,
+    "brightness": 40.0,
+    "green": 34.24,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 19:36",
+    "temp": 20.56,
+    "moist": 23.0,
+    "brightness": 40.0,
+    "green": 31.51,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 20:06",
+    "temp": 20.31,
+    "moist": 23.0,
+    "brightness": 43.0,
+    "green": 27.02,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 20:36",
+    "temp": 20.25,
+    "moist": 23.0,
+    "brightness": 20.0,
+    "green": 26.14,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 21:06",
+    "temp": 20.12,
+    "moist": 23.0,
+    "brightness": 4.0,
+    "green": 2.6,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-09 21:36",
+    "temp": 20.06,
+    "moist": 18.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-10 16:59",
+    "temp": 22.56,
+    "moist": 23.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-11 18:54",
+    "temp": 22.88,
+    "moist": 89.0,
+    "brightness": 0.0,
+    "green": 0.0,
+    "label": "Lightly underwatered"
+  },
+  {
+    "timestamp": "08-12 19:24",
+    "temp": 24.12,
+    "moist": 74.0,
+    "brightness": 0.0,
+    "green": 186.22,
+    "label": "Lightly underwatered"
+  }
+]
