@@ -21,75 +21,17 @@ const char* mqtt_server = "a2qxwnrprho4b8-ats.iot.us-east-1.amazonaws.com";
 
 const char* cert = \
 "-----BEGIN CERTIFICATE-----\n" \
-"MIIDWTCCAkGgAwIBAgIUV+XDhU/9FgRsxlnmPNh7/bMfbSswDQYJKoZIhvcNAQEL\n" \
-"BQAwTTFLMEkGA1UECwxCQW1hem9uIFdlYiBTZXJ2aWNlcyBPPUFtYXpvbi5jb20g\n" \
-"SW5jLiBMPVNlYXR0bGUgU1Q9V2FzaGluZ3RvbiBDPVVTMB4XDTI1MDYxMjA0NTI0\n" \
-"MVoXDTQ5MTIzMTIzNTk1OVowHjEcMBoGA1UEAwwTQVdTIElvVCBDZXJ0aWZpY2F0\n" \
-"ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMjMvGwLxg6txovk2oDe\n" \
-"uvJw4uRWA92m+JrO+kasZKUAeenHS06mXDBy2IrW1ZDz66fUqBx8UQjwGM5pyp1+\n" \
-"6QbUo9YKylQBPCVvTF97GZlpNxSx/AnCWCnqHYL9ojYgDeyxJQTYJByMPDsRzqJ7\n" \
-"0NPMhBfLkKIQUN2txqWwHEbw07R3kzZBjKLOXvgCUfV2aEknd6btzPvjERnXcNaz\n" \
-"rDe1nsYftG5jtM+tQjb8KALX8wZez/1YqVb5Kdb2oQiVx1cGPg3Yf13NN/sZ+v0Q\n" \
-"mlUxZk+Mc3fTJhvz4fTnfB/LKqHyvMnlbzouOxByUw9cgSjxYQDon/37EP9ClsfG\n" \
-"CzkCAwEAAaNgMF4wHwYDVR0jBBgwFoAUbtnqOQO+Lp2JFiImSmiDlSOD9lUwHQYD\n" \
-"VR0OBBYEFPFpbHTl2gMeZDAfvnd8Sak/uDzUMAwGA1UdEwEB/wQCMAAwDgYDVR0P\n" \
-"AQH/BAQDAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQC5f+3u+9m59uW559gEOA6vD3Xu\n" \
-"OfvgOk6/v2O1RL9+Yj6zC2a5U43VfowiaEdTNbDuBBHuEvjswnl12uzzzshnfXd6\n" \
-"57k1cS6r1UZDWfe/xrkCv5wjxOqGU2hSGBhaV9jnD7ovB9UDnTB+RcfDQqV4Z8ou\n" \
-"DwFqvQ/crACpWc0MYTWo1oThBe/EHG4Xbe874F8uVIK/x0Wv7wd1UQ4PkMJsAxOm\n" \
-"Y0xKyZAnhkRuuidotZ/nXkOBBU3aqkre0KNtdzbB0JxlT5aTkhBx9ZZ6mepGfzYQ\n" \
-"hHga2QRrxYv299eEJSNmLXT/A2NFVJCCGYB+bQTmwwX45t+P9xVvpkZ3/Kzw\n" \
+"Enter the cert"
 "-----END CERTIFICATE-----\n";
 
 const char* key = \
 "-----BEGIN RSA PRIVATE KEY-----\n" \
-"MIIEpAIBAAKCAQEAyMy8bAvGDq3Gi+TagN668nDi5FYD3ab4ms76RqxkpQB56cdL\n" \
-"TqZcMHLYitbVkPPrp9SoHHxRCPAYzmnKnX7pBtSj1grKVAE8JW9MX3sZmWk3FLH8\n" \
-"CcJYKeodgv2iNiAN7LElBNgkHIw8OxHOonvQ08yEF8uQohBQ3a3GpbAcRvDTtHeT\n" \
-"NkGMos5e+AJR9XZoSSd3pu3M++MRGddw1rOsN7Wexh+0bmO0z61CNvwoAtfzBl7P\n" \
-"/VipVvkp1vahCJXHVwY+Ddh/Xc03+xn6/RCaVTFmT4xzd9MmG/Ph9Od8H8sqofK8\n" \
-"yeVvOi47EHJTD1yBKPFhAOif/fsQ/0KWx8YLOQIDAQABAoIBAB2ks/BTcKK8HsKK\n" \
-"P4Ok3f5qkeRZmmp/etYH1kTWsGj3gAf2JvTudE+mtLcSbibfC5wUNdk2tRPXtiHK\n" \
-"1mGX2bjrbWBs6V+rawCvxJuX5biTItGIUQfzy+YsLL0oymipJMUbhbaIXhRk04N4\n" \
-"5oNwOez6lUmaALkcJYQEYn4VWKdUJQOVt0LLCLTMtc1YuJEJZ1+LBEknZaXfNP7D\n" \
-"b47AsdLzKRSZ11LOioKuKmSWMwmsoLuFFJl2baXixEQp0TOhc2cAM4p+ojXpz1V1\n" \
-"1sGkHMwxKMcZctdNPw2rf8Ja57Ej8L4L40zF4sZtyJ7K9Oau+cpdmvRDANBc3Zpw\n" \
-"xOr03n0CgYEA+HitAY83WJ/PwIHLZd5ugGRskZdz4jGjSH46UhrioXKUjBTRitcA\n" \
-"2AKzjEzWfc3qaUjn7sxGb3baPItjma1dwTsthW1WnSiOw8dnDamGgp5RCq14UMBK\n" \
-"JJmgpQ55PtSwA8MJC6aN8WgqXBqThtfPMavzr38MSxl2xf5QDDV7Q+8CgYEAzuJI\n" \
-"0D5G8Sbc/7ofljvdKYP7cGN38BnzSps7XlaghpXmCkIYotBOHAi7BmmQBHBCiwhg\n" \
-"n6mYdFf5MOb4rZ5o68To37dj/d7gzjzty3Hkd9ycA0ADGNPYUsvXvOrOLpSYVkLI\n" \
-"URjwJqBjT4hCB9c9tNjnAj12fDqZdjstCOYEW1cCgYEAnZjtIvATysKSoyewOwy6\n" \
-"SfVoZ3AIsI+LYY+uriUfWgey8KbDwaxdfKU5/OM/qMvSwrTbZztp8YkRIxXGNtMf\n" \
-"hFBkrxyKs2PmKYdwddnw1yhTftJIXe+ZF13Z5tcnUBLXEYvDUQBzR4sqUwEIUZ7Q\n" \
-"bFEEX2vWAExGaY7Edvn1FUECgYEAjsEqCTfP7/snJ/agcSQhudHuoGCilDTz4hk3\n" \
-"YCNaZUPuFkoBgedG3qVPmF8jF0z3PcSsF8AJCM7jjlDya6sRLw8Subxr7PPsH6N/\n" \
-"WpDeW68IoF19RZZ4gLlTxnInj5DNhUhTvVH99Elb/bdCCPMHC1FYJf2PUq2E00aG\n" \
-"DsvZWcUCgYAq+o9LqzyMc3vOwpTT1jPcbnMpI4nz/M0g9kXxRluTcFL9A6Z/M5HG\n" \
-"ii7rQLUywj80o/ArE/xFjZS563xwl6Fkw5rynOMThxKg4P0PSUH/Td7Zb8lKws7Q\n" \
-"9JueP3xfwV/5gNNDnTuePk8lI0RADK73vt7S+fXg4L5XalEM4sz5IA==\n" \
+"Enter the key"
 "-----END RSA PRIVATE KEY-----\n";
 
 const char* ca = \
 "-----BEGIN CERTIFICATE-----\n" \
-"MIIDQTCCAimgAwIBAgITBmyfz5m/jAo54vB4ikPmljZbyjANBgkqhkiG9w0BAQsF\n" \
-"ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6\n" \
-"b24gUm9vdCBDQSAxMB4XDTE1MDUyNjAwMDAwMFoXDTM4MDExNzAwMDAwMFowOTEL\n" \
-"MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv\n" \
-"b3QgQ0EgMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALJ4gHHKeNXj\n" \
-"ca9HgFB0fW7Y14h29Jlo91ghYPl0hAEvrAIthtOgQ3pOsqTQNroBvo3bSMgHFzZM\n" \
-"9O6II8c+6zf1tRn4SWiw3te5djgdYZ6k/oI2peVKVuRF4fn9tBb6dNqcmzU5L/qw\n" \
-"IFAGbHrQgLKm+a/sRxmPUDgH3KKHOVj4utWp+UhnMJbulHheb4mjUcAwhmahRWa6\n" \
-"VOujw5H5SNz/0egwLX0tdHA114gk957EWW67c4cX8jJGKLhD+rcdqsq08p8kDi1L\n" \
-"93FcXmn/6pUCyziKrlA4b9v7LWIbxcceVOF34GfID5yHI9Y/QCB/IIDEgEw+OyQm\n" \
-"jgSubJrIqg0CAwEAAaNCMEAwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMC\n" \
-"AYYwHQYDVR0OBBYEFIQYzIU07LwMlJQuCFmcx7IQTgoIMA0GCSqGSIb3DQEBCwUA\n" \
-"A4IBAQCY8jdaQZChGsV2USggNiMOruYou6r4lK5IpDB/G/wkjUu0yKGX9rbxenDI\n" \
-"U5PMCCjjmCXPI6T53iHTfIUJrU6adTrCC2qJeHZERxhlbI1Bjjt/msv0tadQ1wUs\n" \
-"N+gDS63pYaACbvXy8MWy7Vu33PqUXHeeE6V/Uq2V8viTO96LXFvKWlJbYK8U90vv\n" \
-"o/ufQJVtMVT8QtPHRh8jrdkPSHCa2XV4cdFyQzR1bldZwgJcJmApzyMZFo6IQ6XU\n" \
-"5MsI+yMRQ+hDKXJioaldXgjUkK642M4UwtBV8ob2xJNDd2ZhwLnoQdeXeGADbkpy\n" \
-"rqXRfboQnoZsG4q5WTP468SQvvG5\n" \
+"Enter the cert"
 "-----END CERTIFICATE-----\n";
 
 
@@ -349,3 +291,4 @@ void callback(char* topic, byte* payload, unsigned int length) {
     }
   }
 }
+
